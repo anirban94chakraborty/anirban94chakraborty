@@ -1,8 +1,8 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Anirban Chakraborty</h1>
 
-<div align="center">
+<!-- <div align="center">
   <img src ="./banner.jpg" />
-</div>
+</div> -->
 
 
 ## 👨🏻‍💻 About Me:
@@ -13,7 +13,7 @@
 - 👨🏼‍💻 I’m currently working as a <u>_Full Stack Developer_</u>
 - 🌱 I’m currently learning `System Design`, `Optimization` and `Scalability`
 - 🤝🏼 I’m looking to collaborate for `Dev Projects`
-- 🧮 I’m always improving my Problem Solving Skills using `Data Structures` & `Algorithms` 
+- 🧮 I’m always improving my Problem Solving Skills using `DSA` 
 - 💬 Ask me about `Coding` and `Development` in general
 - 🔮 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 - 🤠 Fun fact: I always like to stay active by solving problems.
