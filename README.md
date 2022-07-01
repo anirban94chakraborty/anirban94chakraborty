@@ -39,7 +39,22 @@
 
 ## 🔗 Let's get connected:
 
-<p><a href="https://anirban94chakraborty.github.io/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Anirban's Portfolio-34A7C1.svg?&style=for-the-badge&logo=proto.io&logoColor=white" height="30px" /></a> <a href="www.linkedin.com/in/anirban-chakraborty-7880a7158" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://twitter.com/Anirbaann_ACE" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a>  <a href="https://www.facebook.com/anirbaann.chakraborty" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/anirban94ace" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+<p>
+<a href="https://anirban94chakraborty.github.io/" target="_blank">
+  <img alt="Github" src="https://img.shields.io/badge/Anirban's Portfolio-34A7C1.svg?&style=for-the-badge&logo=proto.io&logoColor=white" height="30px" />
+</a> 
+<a href="https://www.linkedin.com/in/anirban-chakraborty-7880a7158" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/>
+</a> 
+<a href="https://twitter.com/Anirbaann_ACE" target="_blank">
+  <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/>
+</a>  
+<a href="https://www.facebook.com/anirbaann.chakraborty" target="_blank">
+  <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"  height="30px"/>
+</a> 
+<a href="https://www.instagram.com/anirban94ace" target="_blank">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/>
+</a>
 
 
 ## 🤝 Support Me:
