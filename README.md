@@ -30,7 +30,7 @@
 
 * Databases
 
-> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=flat-square&logo=postgresql&logoColor=white" height="27px" /> <img alt="MS SQL Server" src="https://img.shields.io/badge/MS SQL Server-CC2927.svg?&style=flat-square&logo=microsoftsqlserver&logoColor=white" height="27px" /> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=mysql&logoColor=white" height="27px" /> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=sqlite&logoColor=white" height="27px" /> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat-square&logo=mongodb&logoColor=white" height="27px" /> <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?&style=flat-square&logo=redis&logoColor=white" height="27px" />
+> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=flat-square&logo=postgresql&logoColor=white" height="27px" /> <img alt="MS SQL Server" src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927.svg?&style=flat-square&logo=microsoftsqlserver&logoColor=white" height="27px" /> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=mysql&logoColor=white" height="27px" /> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?&style=flat-square&logo=sqlite&logoColor=white" height="27px" /> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat-square&logo=mongodb&logoColor=white" height="27px" /> <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?&style=flat-square&logo=redis&logoColor=white" height="27px" />
 
 * Tools & Services
 
