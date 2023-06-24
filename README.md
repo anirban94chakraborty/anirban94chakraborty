@@ -43,7 +43,7 @@
 <a href="https://anirban94chakraborty.github.io/" target="_blank">
   <img alt="Github" src="https://img.shields.io/badge/Anirban's Portfolio-34A7C1.svg?&style=for-the-badge&logo=proto.io&logoColor=white" height="30px" />
 </a> 
-<a href="https://www.linkedin.com/in/anirban-chakraborty-7880a7158" target="_blank">
+<a href="https://www.linkedin.com/in/anirban94chakraborty" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/>
 </a> 
 <a href="https://twitter.com/Anirbaann_ACE" target="_blank">
