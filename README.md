@@ -68,5 +68,5 @@
   <br/><br/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anirban94chakraborty&" alt="anirban" />
   <br/><br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirban94chakraborty" alt="anirban" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirban94chakraborty&" alt="anirban" />
 </div>
