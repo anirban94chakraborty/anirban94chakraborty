@@ -13,7 +13,7 @@
 - 👨🏼‍💻 I’m currently working as a <u>_Full Stack Developer_</u>
 - 🌱 I’m currently learning `System Design`, `Optimization` and `Scalability`
 - 🤝🏼 I’m looking to collaborate for `Dev Projects`
-- 🧮 I’m always improving my Problem Solving Skills using `DSA` 
+- 🧮 I’m always improving my Problem-Solving Skills using `DSA` 
 - 💬 Ask me about `Coding` and `Development` in general
 - 🔮 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 - 🤠 Fun fact: I always like to stay active by solving problems.
@@ -26,7 +26,7 @@
 
 * Frameworks and Libraries
 
-> <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?&style=flat-square&logo=laravel&logoColor=white" height="27px" /> <img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-EF4223.svg?&style=flat-square&logo=codeigniter&logoColor=white" height="27px" /> <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4.svg?&style=flat-square&logo=microsoft&logoColor=white" height="27px" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?&style=flat-square&logo=node.js&logoColor=white" height="27px" /> <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?&style=flat-square&logo=flask&logoColor=white" height="27px" /> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?&style=flat-square&logo=flutter&logoColor=white" height="27px" /> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=flat-square&logo=bootstrap&logoColor=white" height="27px" /> <img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?&style=flat-square&logo=express&logoColor=white" height="27px" /> <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD.svg?&style=flat-square&logo=jquery&logoColor=white" height="27px" />
+> <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20.svg?&style=flat-square&logo=laravel&logoColor=white" height="27px" /> <img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-EF4223.svg?&style=flat-square&logo=codeigniter&logoColor=white" height="27px" /> <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4.svg?&style=flat-square&logo=dotnet&logoColor=white" height="27px" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?&style=flat-square&logo=node.js&logoColor=white" height="27px" /> <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?&style=flat-square&logo=flask&logoColor=white" height="27px" /> <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?&style=flat-square&logo=flutter&logoColor=white" height="27px" /> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=flat-square&logo=bootstrap&logoColor=white" height="27px" /> <img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?&style=flat-square&logo=express&logoColor=white" height="27px" /> <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD.svg?&style=flat-square&logo=jquery&logoColor=white" height="27px" />
 
 * Databases
 
