@@ -66,7 +66,7 @@
 <div align="center">
   <img  align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anirban94chakraborty&show_icons=true" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=anirban94chakraborty" alt="GitHub Streak" />
+  <img align="center" src="https://streak-stats.demolab.com?user=anirban94chakraborty" alt="GitHub Streak" />
   <br/><br/>
   <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirban94chakraborty&" alt="anirban" />-->
 </div>
